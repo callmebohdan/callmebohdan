@@ -1,8 +1,6 @@
 <h1 align="center">Sup 👋, I'm Bohdan</h1>
 <h3 align="center">Software Engineer from Ukraine</h3>
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=callmebohdan" alt="callmebohdan" /></a> </p> -->
-
 - 🔭 I’m currently working on several private pet-projects
 
 - 🌱 I’m currently learning **C++, UE5**
@@ -20,5 +18,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=callmebohdan&show_icons=true&locale=en&layout=compact" alt="callmebohdan" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=callmebohdan&show_icons=true&locale=en" alt="callmebohdan" /></p>
-
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=callmebohdan&" alt="callmebohdan" /></p> -->
