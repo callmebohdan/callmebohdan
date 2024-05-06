@@ -1,9 +1,9 @@
 <h1 align="center">Sup 👋, I'm Bohdan</h1>
 <h3 align="center">Software Engineer from Ukraine</h3>
 
-- 🔭 I’m currently working on several private pet-projects
+- 🔭 I’m currently working on several pet-projects.
 
-- 🌱 I’m currently learning **C++, UE5**
+- 🌱 I’m currently enhancing my skills in **C++, OOP, Design Patterns, Algorithms**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
