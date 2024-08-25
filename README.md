@@ -11,8 +11,8 @@
   <a href="https://en.cppreference.com/w/cpp"> <img src="icons/cpp.svg" width="40" height="40"/> </a>
   <a href="https://cmake.org"> <img src="icons/cmake.svg" width="40" height="40"/> </a>
   <a href="https://git-scm.com/docs"> <img src="icons/git.svg" width="40" height="40"/> </a>
-  <a href="https://www.qt.io"> <img src="icons/qt.svg"width="40" height="40"/> </a>
-  <a href="hhttps://github.com/google/googletest"> <img src="icons/gtest.svg"width="40" height="40"/> </a>
+  <a href="https://www.qt.io"> <img src="icons/qt.svg" width="40" height="40"/> </a>
+  <a href="https://github.com/google/googletest"> <img src="icons/gtest.svg" width="40" height="40"/> </a>
   <a href="https://dotnet.microsoft.com/en-us/languages/csharp"> <img src="icons/c-sharp.svg" width="40" height="40"/> </a>
   <a href="https://en.cppreference.com/w/c"> <img src="icons/c.svg" width="40" height="40"/> </a>
   <a href="https://www.linux.org"> <img src="icons/linux.svg" width="40" height="40"/> </a>
