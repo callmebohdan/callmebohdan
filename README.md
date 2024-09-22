@@ -23,8 +23,6 @@
 <a href="https://git-scm.com/docs"><img src="icons/git.svg" width="40" height="40" alt="Git"/></a>
 <a href="https://www.qt.io"><img src="icons/qt.svg" width="40" height="40" alt="Qt"/></a>
 <a href="https://github.com/google/googletest"><img src="icons/gtest.svg" width="40" height="40" alt="GoogleTest"/></a>
-<a href="https://www.qt.io"><img src="icons/qt.svg"width="40" height="40" alt="Qt"/></a>
-<a href="hhttps://github.com/google/googletest"><img src="icons/gtest.svg"width="40" height="40" alt="GoogleTest"/></a>
 <a href="https://dotnet.microsoft.com/en-us/languages/csharp"><img src="icons/c-sharp.svg" width="40" height="40" alt="C#"/></a>
 <a href="https://en.cppreference.com/w/c"><img src="icons/c.svg" width="40" height="40" alt="C"/></a>
 <a href="https://www.linux.org"><img src="icons/linux.svg" width="40" height="40" alt="Linux"/></a>
@@ -38,7 +36,6 @@
 <a href="https://www.mathworks.com"><img src="icons/matlab.svg" width="40" height="40" alt="MATLAB"/></a>
 <a href="https://docutils.sourceforge.io/rst.html"> <img src="icons/reStructuredText.svg" width="40" height="40" alt="reStructuredText"/></a>
 <a href="https://www.python.org"><img src="icons/python.svg" width="40" height="40" alt="Python"/></a>
-<a href="https://docutils.sourceforge.io/rst.html"><img src="icons/reStructuredText.svg" width="40" height="40" alt="Python"/></a>
 <a href="https://www.altium.com/altium-designer"><img src="icons/altium-designer.svg" width="40" height="40" alt="Altium Designer"/></a>
 <a href="https://trello.com"><img src="icons/trello.svg" width="40" height="40" alt="Trello"/></a>
 <a href="https://www.atlassian.com/software/jira"><img src="icons/jira.svg" width="40" height="40" alt="Jira"/></a>
@@ -50,6 +47,4 @@
 <a href="https://www.docker.com"><img src="icons/docker.svg" width="40" height="40" alt="Docker"/></a>
 <a href="https://go.dev"><img src="icons/go.svg" width="40" height="40" alt="Go"/></a>
 <a href="https://www.ni.com/en/shop/labview.html"><img src="icons/labview.svg" width="80" height="40" alt="LabView"/></a>
-<a href="https://go.dev"><img src="icons/go.svg" width="40" height="40"alt="Go"/></a>
-<a href="https://www.ni.com/en/shop/labview.html"><img src="icons/labview.svg" width="80" height="40"/></a>
 <a href="https://www.python.org"><img src="icons/python.svg" width="40" height="40" alt="LabView"/></a>
