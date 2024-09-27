@@ -28,6 +28,7 @@
 <a href="https://www.linux.org"><img src="icons/linux.svg" width="40" height="40" alt="Linux"/></a>
 <a href="https://www.gnu.org/software/bash"><img src="icons/bash.svg" width="40" height="40" alt="Bash"/></a>
 <a href="https://www.figma.com/"><img src="icons/figma.svg" width="40" height="40" alt="Figma"/></a>
+<a href="https://rightware.com/product/kanzi-studio"><img src="icons/kanzi.svg" width="80" height="40" alt="Kanzi"/></a>
 <a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html"><img src="icons/stm.svg" width="80" height="40" alt="STM32"/></a>
 
 <h3>Secondary Skills:</h3>
