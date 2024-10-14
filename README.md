@@ -50,3 +50,7 @@
 <a href="https://go.dev"><img src="icons/go.svg" width="40" height="40" alt="Go"/></a>
 <a href="https://www.ni.com/en/shop/labview.html"><img src="icons/labview.svg" width="80" height="40" alt="LabView"/></a>
 <a href="https://www.python.org"><img src="icons/python.svg" width="40" height="40" alt="LabView"/></a>
+
+<h3>⚙️ GitHub Analytics:</h3>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=callmebohdan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&&hide=issues,contribs,stars)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=callmebohdan&layout=compact&langs_count=8&theme=algolia)
