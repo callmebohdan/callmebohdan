@@ -12,6 +12,37 @@
 <a href="https://github.com/callmebohdan/nomaren">nomaren</a>
 <a>A cross-platform media player capable of handling music, pictures, videos, and text.</a>
 </p>
+<h3>🛠 Skills:</h3>
+<h4>Networking:</h4>
+<a href="https://www.netacad.com/courses/packet-tracer"><img src="https://img.shields.io/badge/cisco-blue.svg?style=for-the-badge&logo=cisco&logoColor=green" alt="Cisco Packet Tracer"/></a>
+
+<h4>Virtualization:</h4>
+<a href="https://www.docker.com"><img src="https://img.shields.io/badge/docker-white.svg?style=for-the-badge&logo=docker&logoColor=blue" alt="Docker"/></a>
+
+<h4>Human-Machine Interface:</h4>
+<a href="https://rightware.com/product/kanzi-studio"><img src="https://img.shields.io/badge/Kanzi-blue.svg?style=for-the-badge&logo=Kanzi&logoColor=green" alt="Kanzi"/></a>
+
+<h4>Linux:</h4>
+<a href="https://www.linux.org"><img src="https://img.shields.io/badge/linux-blue.svg?style=for-the-badge&logo=linux&logoColor=green" alt="Linux"/></a>
+<a href="https://www.gnu.org/software/bash"><img src="https://img.shields.io/badge/bash-blue.svg?style=for-the-badge&logo=gnubash&logoColor=grey" alt="Bash"/></a>
+
+<h4>Build Systems:</h4>
+<a href="https://cmake.org"><img src="https://img.shields.io/badge/cmake-blue.svg?style=for-the-badge&logo=cmake&logoColor=red" alt="CMake"/></a>
+<a href="https://www.gnu.org/software/make/manual/html_node/index.html"><img src="https://img.shields.io/badge/make-blue.svg?style=for-the-badge&logo=make&logoColor=green" alt="GNU Make"/></a>
+
+<h4>Version Control:</h4>
+<a href="https://git-scm.com/docs"><img src="https://img.shields.io/badge/git-blue.svg?style=for-the-badge&logo=git&logoColor=red" alt="Git"/></a>
+
+<h4>Design:</h4>
+<a href="https://www.figma.com/"><img src="https://img.shields.io/badge/figma-blue.svg?style=for-the-badge&logo=figma&logoColor=orange" alt="Figma"/></a>
+
+<h4>Project Management:</h4>
+<a href="https://trello.com"><img src="https://img.shields.io/badge/trello-white.svg?style=for-the-badge&logo=trello&logoColor=blue" alt="Trello"/></a>
+<a href="https://www.atlassian.com/software/jira"><img src="https://img.shields.io/badge/jira-white.svg?style=for-the-badge&logo=jira&logoColor=blue" alt="Jira"/></a>
+<a href="https://www.atlassian.com/software/confluence"><img src="https://img.shields.io/badge/confluence-white.svg?style=for-the-badge&logo=confluence&logoColor=blue" alt="Confluence"/></a>
+
+<h4>Documentation:</h4>
+<a href="https://docutils.sourceforge.io/rst.html"> <img src="https://img.shields.io/badge/reStructuredText-blue.svg?style=for-the-badge&logo=reStructuredText&logoColor=green" alt="reStructuredText"/></a>
 
 <h3>Contact me:</h3>
 <a href="https://linkedin.com/in/bohdan-ponomarenko"><img align="center" src="icons/linkedin.svg" width="40" height="40" alt="linkedin"/></a>
