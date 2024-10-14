@@ -12,6 +12,9 @@
 <a href="https://github.com/callmebohdan/nomaren">nomaren</a>
 <a>A cross-platform media player capable of handling music, pictures, videos, and text.</a>
 </p>
+<h3>🔗 Contacts:</h3>
+<a href="https://linkedin.com/in/bohdan-ponomarenko"><img src="https://img.shields.io/badge/linkedin-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+<a href="mailto:bohdan.ponomarenko.work@gmail.com"><img src="https://img.shields.io/badge/gmail-red.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
 <h3>🛠 Skills:</h3>
 <h4>Networking:</h4>
 <a href="https://www.netacad.com/courses/packet-tracer"><img src="https://img.shields.io/badge/cisco-blue.svg?style=for-the-badge&logo=cisco&logoColor=green" alt="Cisco Packet Tracer"/></a>
