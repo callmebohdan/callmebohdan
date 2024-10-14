@@ -3,15 +3,21 @@
   Currently working on several cross-platform (Windows, Linux) projects using C++, CMake, Qt, GoogleTest:
 </p>
 
-<p>
-<a href="https://github.com/callmebohdan/minipass">minipass</a>
-<a>A minimalistic password generator featuring customizable settings.</a>
-</p>
+<h3>💼 Pet projects:</h3>
+<details>
+<summary>minipass</summary>
+<p><b>Description</b>: A minimalistic password generator featuring customizable settings.</p>
+<p><b>Stack</b>: C++, Qt6, CMake, GoogleTest</p>
+<p><a href="https://github.com/callmebohdan/minipass">minipass</a></p>
+</details>
 
-<p>
-<a href="https://github.com/callmebohdan/nomaren">nomaren</a>
-<a>A cross-platform media player capable of handling music, pictures, videos, and text.</a>
-</p>
+<details>
+<summary>nomaren</summary>
+<p><b>Description</b>: A cross-platform media player capable of handling music, pictures, videos, and text.</p>
+<p><b>Stack</b>: C++, Qt6, CMake</p>
+<p><a href="https://github.com/callmebohdan/nomaren">nomaren</a></p>
+</details>
+
 <h3>🔗 Contacts:</h3>
 <a href="https://linkedin.com/in/bohdan-ponomarenko"><img src="https://img.shields.io/badge/linkedin-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
 <a href="mailto:bohdan.ponomarenko.work@gmail.com"><img src="https://img.shields.io/badge/gmail-red.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
