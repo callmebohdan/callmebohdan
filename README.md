@@ -1,7 +1,5 @@
-<h3>Hi, I am Bohdan, Software Engineer from Ukraine.</h3>
-<p>
-  Currently working on several cross-platform (Windows, Linux) projects using C++, CMake, Qt, GoogleTest:
-</p>
+﻿<h3>✍️ About Me:</h3>
+<p>Hi, I am Bohdan, Software Engineer from Ukraine. Currently working on several projects using C++, CMake, Qt6, GoogleTest.</p>
 
 <h3>💼 Pet projects:</h3>
 <details>
