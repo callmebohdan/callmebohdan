@@ -45,14 +45,7 @@
 <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/figma-blue.svg?style=for-the-badge&logo=figma&logoColor=orange" alt="Figma"/></a>
 <a href="https://docutils.sourceforge.io/rst.html"> <img src="https://img.shields.io/badge/reStructuredText-blue.svg?style=for-the-badge&logo=reStructuredText&logoColor=green" alt="reStructuredText"/></a>
 <a href="https://www.netacad.com/courses/packet-tracer"><img src="https://img.shields.io/badge/cisco-blue.svg?style=for-the-badge&logo=cisco&logoColor=green" alt="Cisco Packet Tracer"/></a>
-<a href="https://www.docker.com"><img src="https://img.shields.io/badge/docker-white.svg?style=for-the-badge&logo=docker&logoColor=blue" alt="Docker"/></a>
 <a href="https://rightware.com/product/kanzi-studio"><img src="https://img.shields.io/badge/Kanzi-blue.svg?style=for-the-badge&logo=Kanzi&logoColor=green" alt="Kanzi"/></a>
-<a href="https://www.nodemcu.com/index_en.html"><img src="https://img.shields.io/badge/NodeMCU-blue.svg?style=for-the-badge&logo=NodeMCU&logoColor=green" alt="NodeMCU"/></a>
-<a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html"><img src="https://img.shields.io/badge/stm32-blue.svg?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32"/></a>
-<a href="https://www.autodesk.com/products/autocad/overview"><img src="https://img.shields.io/badge/autocad-blue.svg?style=for-the-badge&logo=autocad&logoColor=green" alt="AutoCAD"/></a>
-<a href="https://www.altium.com/altium-designer"><img src="https://img.shields.io/badge/altiumdesigner-blue.svg?style=for-the-badge&logo=altiumdesigner&logoColor=gold" alt="Altium Designer"/></a>
-<a href="https://www.mathworks.com"><img src="https://img.shields.io/badge/matlab-blue.svg?style=for-the-badge&logo=matlab&logoColor=green" alt="MATLAB"/></a>
-<a href="https://www.ni.com/en/shop/labview.html"><img src="https://img.shields.io/badge/labview-blue.svg?style=for-the-badge&logo=labview&logoColor=green" alt="LabView"/></a>
 
 <h3>⚙️ GitHub Analytics:</h3>
 
