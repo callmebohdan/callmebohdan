@@ -1,5 +1,5 @@
 ﻿<h3>✍️ About Me:</h3>
-<p>Hi, I am Bohdan, Software Engineer from Ukraine. Currently working on several projects using C++, CMake, Qt6, GoogleTest.</p>
+<p>Hi, I am Bohdan, Software Engineer from Ukraine. Currently working on several projects utilizing C++, CMake, Qt6, GoogleTest.</p>
 
 <h3>💼 Pet projects:</h3>
 <details>
