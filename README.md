@@ -24,17 +24,17 @@
 <h4>Programming:</h4>
 <a href="https://en.cppreference.com/w/cpp"><img src="https://img.shields.io/badge/cplusplus-blue.svg?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/></a>
 <a href="https://en.cppreference.com/w/c"><img src="https://img.shields.io/badge/C-blue.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/></a>
-<a href="https://dotnet.microsoft.com/en-us/languages/csharp"><img src="https://img.shields.io/badge/dotnet-blue.svg?style=for-the-badge&logo=dotnet&logoColor=purple" alt="C#"/></a>
-<a href="https://standards.ieee.org/ieee/1364/3641"><img src="https://img.shields.io/badge/verilog-blue.svg?style=for-the-badge&logo=verilog&logoColor=green" alt="Verilog"/></a>
-<a href="https://www.python.org"><img src="https://img.shields.io/badge/python-blue.svg?style=for-the-badge&logo=python&logoColor=yellow" alt="Python"/></a>
-<a href="https://go.dev"><img src="https://img.shields.io/badge/golang-blue.svg?style=for-the-badge&logo=golang&logoColor=green" alt="Go"/></a>
 <a href="https://www.qt.io"><img src="https://img.shields.io/badge/qt-blue.svg?style=for-the-badge&logo=qt&logoColor=green" alt="Qt"/></a>
 <a href="https://github.com/google/googletest"><img src="https://img.shields.io/badge/googletest-blue.svg?style=for-the-badge&logo=google&logoColor=white" alt="GoogleTest"/></a>
 <a href="https://cmake.org"><img src="https://img.shields.io/badge/cmake-blue.svg?style=for-the-badge&logo=cmake&logoColor=red" alt="CMake"/></a>
+<a href="https://dotnet.microsoft.com/en-us/languages/csharp"><img src="https://img.shields.io/badge/dotnet-blue.svg?style=for-the-badge&logo=dotnet&logoColor=purple" alt="C#"/></a>
 <a href="https://www.gnu.org/software/make/manual/html_node/index.html"><img src="https://img.shields.io/badge/make-blue.svg?style=for-the-badge&logo=make&logoColor=green" alt="GNU Make"/></a>
+<a href="https://git-scm.com/docs"><img src="https://img.shields.io/badge/git-blue.svg?style=for-the-badge&logo=git&logoColor=red" alt="Git"/></a>
 <a href="https://www.linux.org"><img src="https://img.shields.io/badge/linux-blue.svg?style=for-the-badge&logo=linux&logoColor=green" alt="Linux"/></a>
 <a href="https://www.gnu.org/software/bash"><img src="https://img.shields.io/badge/bash-blue.svg?style=for-the-badge&logo=gnubash&logoColor=grey" alt="Bash"/></a>
-<a href="https://git-scm.com/docs"><img src="https://img.shields.io/badge/git-blue.svg?style=for-the-badge&logo=git&logoColor=red" alt="Git"/></a>
+<a href="https://standards.ieee.org/ieee/1364/3641"><img src="https://img.shields.io/badge/verilog-blue.svg?style=for-the-badge&logo=verilog&logoColor=green" alt="Verilog"/></a>
+<a href="https://www.python.org"><img src="https://img.shields.io/badge/python-blue.svg?style=for-the-badge&logo=python&logoColor=yellow" alt="Python"/></a>
+<a href="https://go.dev"><img src="https://img.shields.io/badge/golang-blue.svg?style=for-the-badge&logo=golang&logoColor=green" alt="Go"/></a>
 
 <h4>Project Management:</h4>
 <a href="https://trello.com"><img src="https://img.shields.io/badge/trello-white.svg?style=for-the-badge&logo=trello&logoColor=blue" alt="Trello"/></a>
