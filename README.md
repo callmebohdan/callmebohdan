@@ -1,4 +1,4 @@
-﻿<h3>✍️ About Me:</h3>
+<h3>✍️ About Me:</h3>
 <p>Hi, I am Bohdan, Software Engineer from Ukraine. Currently working on several projects utilizing C++, CMake, Qt6, GoogleTest.</p>
 
 <h3>💼 Pet projects:</h3>
@@ -18,7 +18,7 @@
 
 <h3>🔗 Contacts:</h3>
 <a href="https://linkedin.com/in/bohdan-ponomarenko"><img src="https://img.shields.io/badge/linkedin-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
-<a href="mailto:bohdan.ponomarenko.work@gmail.com"><img src="https://img.shields.io/badge/gmail-red.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
+<a href="mailto:bohdan.ponomarenko.work@gmail.com"><img src="https://img.shields.io/badge/gmail-blue.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
 
 <h3>🛠 Skills:</h3>
 <h4>Programming:</h4>
