@@ -44,6 +44,10 @@
 <h4>Networking and Simulation Tools:</h4>
 <a href="https://www.netacad.com/courses/packet-tracer"><img src="https://img.shields.io/badge/Cisco Packet Tracer-blue.svg?style=for-the-badge&logo=cisco&logoColor=green" alt="Cisco Packet Tracer"/></a>
 
+<h4>Embedded Systems and Hardware:</h4>
+<a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html"><img src="https://img.shields.io/badge/STM32-blue.svg?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32"/></a>
+<a href="https://developer.android.com/things"><img src="https://img.shields.io/badge/AOSP-blue.svg?style=for-the-badge&logo=android&logoColor=white" alt="AOSP"/></a>
+
 <h4>HMI and UI/UX Design:</h4>
 <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-blue.svg?style=for-the-badge&logo=figma&logoColor=orange" alt="Figma"/></a>
 <a href="https://rightware.com/product/kanzi-studio"><img src="https://img.shields.io/badge/Kanzi-blue.svg?style=for-the-badge&logo=kanzi&logoColor=green" alt="Kanzi"/></a>
