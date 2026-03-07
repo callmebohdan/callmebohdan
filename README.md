@@ -10,10 +10,10 @@
 </details>
 
 <details>
-<summary>nomaren</summary>
+<summary>ministrim</summary>
 <p><b>Description</b>: A cross-platform media player capable of handling music, pictures, videos, and text.</p>
 <p><b>Stack</b>: C++, Qt6, CMake</p>
-<p><a href="https://github.com/callmebohdan/nomaren">nomaren</a></p>
+<p><a href="https://github.com/callmebohdan/ministrim">ministrim</a></p>
 </details>
 
 <h3>🔗 Contacts:</h3>
