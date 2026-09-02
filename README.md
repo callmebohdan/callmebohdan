@@ -59,9 +59,3 @@
 <a href="https://trello.com"><img src="https://img.shields.io/badge/Trello-white.svg?style=for-the-badge&logo=trello&logoColor=blue" alt="Trello"/></a>
 <a href="https://www.atlassian.com/software/jira"><img src="https://img.shields.io/badge/Jira-white.svg?style=for-the-badge&logo=jira&logoColor=blue" alt="Jira"/></a>
 <a href="https://www.atlassian.com/software/confluence"><img src="https://img.shields.io/badge/Confluence-white.svg?style=for-the-badge&logo=confluence&logoColor=blue" alt="Confluence"/></a>
-
-<h3>⚙️ GitHub Analytics:</h3>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=callmebohdan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&&hide=issues,contribs,stars)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=callmebohdan&layout=compact&langs_count=8&theme=algolia)
